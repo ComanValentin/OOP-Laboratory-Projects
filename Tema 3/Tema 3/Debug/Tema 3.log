@@ -1,0 +1,12 @@
+﻿  Exam.cpp
+  FinalExam.cpp
+  main.cpp
+d:\desktop\tema 3\tema 3\main.cpp(12): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\desktop\tema 3\tema 3\main.cpp(13): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\desktop\tema 3\tema 3\main.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+  MidtermExam.cpp
+  Quiz.cpp
+d:\desktop\tema 3\tema 3\quiz.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Student.cpp
+  Generating Code...
+  Tema 3.vcxproj -> D:\Desktop\Tema 3\Debug\Tema 3.exe
